@@ -159,6 +159,10 @@ a:hover {
   opacity: 0.85;
 }
 
+.justify {
+  text-align: justify;
+}
+
 .progress {
     position: absolute;
     right: 40px;
